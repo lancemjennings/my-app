@@ -1,3 +1,3 @@
 Example Maven Project
 
-Test
+Testing
